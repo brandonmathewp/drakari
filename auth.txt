@@ -13,7 +13,7 @@
   "bESP_AlertOnlyOffscreen": true,
   "fESP_AlertRadius": true,
   "fESP_LineThickness": true,
-  "bAIM_Master": false,
+  "bAIM": false,
   "bAIM_CheckVisibility": true,
   "bAIM_IgnoreKnocked": true,
   "bAIM_IgnoreBots": true,
