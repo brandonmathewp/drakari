@@ -25,7 +25,7 @@
   "iAIM_TargetBone": true,
   "bBulletTrack": true,
   "fBulletTrack_Prob": true,
-  "bMemory": false,
+  "bMEMORY": false,
   "bNoRecoil": true,
   "bNoSpread": true,
   "bXray": true,
